@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707084768336",
+    "project_id": "rapid-project-83c08",
+    "storage_bucket": "rapid-project-83c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707084768336:android:f0a67cc934ef13af5f6d55",
+        "android_client_info": {
+          "package_name": "com.example.footware_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93biGUz6xhhSa3DyV3j27ZhiDIBVzKIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
